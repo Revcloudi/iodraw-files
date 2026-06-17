@@ -16,7 +16,7 @@
         <mxCell id="2xVolAvz7KJSMMRBV8Ti-4" value="用户行为转化漏斗图（粉色）" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="2xVolAvz7KJSMMRBV8Ti-3">
           <mxGeometry x="46" y="43" width="254" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="2xVolAvz7KJSMMRBV8Ti-5" value="商业洞察建议（浅粉色）&#xa;3 行内容" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="2xVolAvz7KJSMMRBV8Ti-3">
+        <mxCell id="2xVolAvz7KJSMMRBV8Ti-5" value="商业洞察建议&#xa;3 行内容" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="2xVolAvz7KJSMMRBV8Ti-3">
           <mxGeometry x="375" y="106" width="259" height="67" as="geometry" />
         </mxCell>
         <mxCell id="2xVolAvz7KJSMMRBV8Ti-6" value="Top 10 商品销量排行柱状图（粉色）" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="2xVolAvz7KJSMMRBV8Ti-3">
@@ -73,7 +73,7 @@
         <mxCell id="2xVolAvz7KJSMMRBV8Ti-17" value="MapReduce 清洗层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="196" y="806" width="632" height="242" as="geometry" />
         </mxCell>
-        <mxCell id="2xVolAvz7KJSMMRBV8Ti-18" value="YARN 资源调度（蓝色）" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="2xVolAvz7KJSMMRBV8Ti-17">
+        <mxCell id="2xVolAvz7KJSMMRBV8Ti-18" value="YARN 资源调度" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="2xVolAvz7KJSMMRBV8Ti-17">
           <mxGeometry x="46" y="105" width="230" height="49" as="geometry" />
         </mxCell>
         <mxCell id="2xVolAvz7KJSMMRBV8Ti-19" value="Map-Only 清洗任务&#xa;规则：&#xa;i. 空行过滤&#xa;ii. 表头跳过&#xa;iii. 字段数量校验&#xa;iv. action_type 校验&#xa;v. price 数值校验&#xa;vi. ID 非空校验&#xa;vii. IP 非空校验" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="2xVolAvz7KJSMMRBV8Ti-17">
