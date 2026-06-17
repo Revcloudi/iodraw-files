@@ -37,24 +37,24 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2xVolAvz7KJSMMRBV8Ti-9" value="Hive 数据仓库层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="191" y="1098" width="642" height="242" as="geometry" />
+          <mxGeometry x="191" y="1098" width="642" height="162" as="geometry" />
         </mxCell>
         <mxCell id="2xVolAvz7KJSMMRBV8Ti-10" value="外部表：dwd_ecommerce_logs (EXTERNAL)" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="2xVolAvz7KJSMMRBV8Ti-9">
-          <mxGeometry x="46" y="101.53312302839117" width="259" height="51.14826498422713" as="geometry" />
+          <mxGeometry x="46" y="67.96845425867508" width="259" height="34.2397476340694" as="geometry" />
         </mxCell>
         <mxCell id="2xVolAvz7KJSMMRBV8Ti-11" value="指标1：PV + UV" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="2xVolAvz7KJSMMRBV8Ti-9">
-          <mxGeometry x="409" y="32.82649842271294" width="174" height="37.40694006309148" as="geometry" />
+          <mxGeometry x="409" y="21.974763406940063" width="174" height="25.041009463722396" as="geometry" />
         </mxCell>
         <mxCell id="2xVolAvz7KJSMMRBV8Ti-12" value="指标2：Top 10 热销商品" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="2xVolAvz7KJSMMRBV8Ti-9">
-          <mxGeometry x="379" y="108.40378548895899" width="233" height="37.40694006309148" as="geometry" />
+          <mxGeometry x="379" y="72.56782334384859" width="233" height="25.041009463722396" as="geometry" />
         </mxCell>
         <mxCell id="2xVolAvz7KJSMMRBV8Ti-13" value="指标3：行为漏斗分析" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="2xVolAvz7KJSMMRBV8Ti-9">
-          <mxGeometry x="389" y="183.98107255520506" width="214" height="37.40694006309148" as="geometry" />
+          <mxGeometry x="389" y="123.16088328075712" width="214" height="25.041009463722396" as="geometry" />
         </mxCell>
         <mxCell id="2xVolAvz7KJSMMRBV8Ti-14" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.71;exitY=0;entryX=0;entryY=0.5;rounded=0;fontSize=16;" edge="1" parent="2xVolAvz7KJSMMRBV8Ti-9" source="2xVolAvz7KJSMMRBV8Ti-10" target="2xVolAvz7KJSMMRBV8Ti-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="342" y="51.911671924290225" />
+              <mxPoint x="342" y="34.75078864353312" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -66,7 +66,7 @@
         <mxCell id="2xVolAvz7KJSMMRBV8Ti-16" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.71;exitY=1;entryX=0;entryY=0.5;rounded=0;fontSize=16;" edge="1" parent="2xVolAvz7KJSMMRBV8Ti-9" source="2xVolAvz7KJSMMRBV8Ti-10" target="2xVolAvz7KJSMMRBV8Ti-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="342" y="203.06624605678235" />
+              <mxPoint x="342" y="135.93690851735016" />
             </Array>
           </mxGeometry>
         </mxCell>
