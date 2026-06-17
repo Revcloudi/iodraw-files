@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2xVolAvz7KJSMMRBV8Ti-1" value="底部说明" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="346" y="1680" width="331" height="90" as="geometry" />
+          <mxGeometry x="346" y="1585" width="331" height="90" as="geometry" />
         </mxCell>
         <mxCell id="2xVolAvz7KJSMMRBV8Ti-2" value="数据流向 → 技术栈 → 学号" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="2xVolAvz7KJSMMRBV8Ti-1">
           <mxGeometry x="46" y="32.52100840336134" width="256" height="37.05882352941176" as="geometry" />
         </mxCell>
         <mxCell id="2xVolAvz7KJSMMRBV8Ti-3" value="数据可视化层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="180" y="1465" width="663" height="175" as="geometry" />
+          <mxGeometry x="180" y="1370" width="663" height="175" as="geometry" />
         </mxCell>
         <mxCell id="2xVolAvz7KJSMMRBV8Ti-4" value="用户行为转化漏斗图" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="2xVolAvz7KJSMMRBV8Ti-3">
           <mxGeometry x="46" y="27.767527675276753" width="254" height="43.26568265682657" as="geometry" />
@@ -37,24 +37,24 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2xVolAvz7KJSMMRBV8Ti-9" value="Hive 数据仓库层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="191" y="1098" width="642" height="317" as="geometry" />
+          <mxGeometry x="191" y="1098" width="642" height="242" as="geometry" />
         </mxCell>
         <mxCell id="2xVolAvz7KJSMMRBV8Ti-10" value="外部表：dwd_ecommerce_logs (EXTERNAL)" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="2xVolAvz7KJSMMRBV8Ti-9">
-          <mxGeometry x="46" y="133" width="259" height="67" as="geometry" />
+          <mxGeometry x="46" y="101.53312302839117" width="259" height="51.14826498422713" as="geometry" />
         </mxCell>
         <mxCell id="2xVolAvz7KJSMMRBV8Ti-11" value="指标1：PV + UV" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="2xVolAvz7KJSMMRBV8Ti-9">
-          <mxGeometry x="409" y="43" width="174" height="49" as="geometry" />
+          <mxGeometry x="409" y="32.82649842271294" width="174" height="37.40694006309148" as="geometry" />
         </mxCell>
         <mxCell id="2xVolAvz7KJSMMRBV8Ti-12" value="指标2：Top 10 热销商品" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="2xVolAvz7KJSMMRBV8Ti-9">
-          <mxGeometry x="379" y="142" width="233" height="49" as="geometry" />
+          <mxGeometry x="379" y="108.40378548895899" width="233" height="37.40694006309148" as="geometry" />
         </mxCell>
         <mxCell id="2xVolAvz7KJSMMRBV8Ti-13" value="指标3：行为漏斗分析" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="2xVolAvz7KJSMMRBV8Ti-9">
-          <mxGeometry x="389" y="241" width="214" height="49" as="geometry" />
+          <mxGeometry x="389" y="183.98107255520506" width="214" height="37.40694006309148" as="geometry" />
         </mxCell>
         <mxCell id="2xVolAvz7KJSMMRBV8Ti-14" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.71;exitY=0;entryX=0;entryY=0.5;rounded=0;fontSize=16;" edge="1" parent="2xVolAvz7KJSMMRBV8Ti-9" source="2xVolAvz7KJSMMRBV8Ti-10" target="2xVolAvz7KJSMMRBV8Ti-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="342" y="68" />
+              <mxPoint x="342" y="51.911671924290225" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -66,7 +66,7 @@
         <mxCell id="2xVolAvz7KJSMMRBV8Ti-16" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.71;exitY=1;entryX=0;entryY=0.5;rounded=0;fontSize=16;" edge="1" parent="2xVolAvz7KJSMMRBV8Ti-9" source="2xVolAvz7KJSMMRBV8Ti-10" target="2xVolAvz7KJSMMRBV8Ti-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="342" y="266" />
+              <mxPoint x="342" y="203.06624605678235" />
             </Array>
           </mxGeometry>
         </mxCell>
