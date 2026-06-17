@@ -5,34 +5,34 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2xVolAvz7KJSMMRBV8Ti-1" value="底部说明" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="346" y="1710" width="331" height="90" as="geometry" />
+          <mxGeometry x="346" y="1680" width="331" height="90" as="geometry" />
         </mxCell>
         <mxCell id="2xVolAvz7KJSMMRBV8Ti-2" value="数据流向 → 技术栈 → 学号" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="2xVolAvz7KJSMMRBV8Ti-1">
           <mxGeometry x="46" y="32.52100840336134" width="256" height="37.05882352941176" as="geometry" />
         </mxCell>
         <mxCell id="2xVolAvz7KJSMMRBV8Ti-3" value="数据可视化层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="180" y="1465" width="663" height="205" as="geometry" />
+          <mxGeometry x="180" y="1465" width="663" height="175" as="geometry" />
         </mxCell>
         <mxCell id="2xVolAvz7KJSMMRBV8Ti-4" value="用户行为转化漏斗图" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="2xVolAvz7KJSMMRBV8Ti-3">
-          <mxGeometry x="46" y="32.52767527675277" width="254" height="50.68265682656827" as="geometry" />
+          <mxGeometry x="46" y="27.767527675276753" width="254" height="43.26568265682657" as="geometry" />
         </mxCell>
         <mxCell id="2xVolAvz7KJSMMRBV8Ti-5" value="商业洞察建议&#xa;3 行内容" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="2xVolAvz7KJSMMRBV8Ti-3">
-          <mxGeometry x="375" y="80.18450184501845" width="259" height="50.68265682656827" as="geometry" />
+          <mxGeometry x="375" y="68.45018450184502" width="259" height="43.26568265682657" as="geometry" />
         </mxCell>
         <mxCell id="2xVolAvz7KJSMMRBV8Ti-6" value="Top 10 商品销量排行柱状图" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="2xVolAvz7KJSMMRBV8Ti-3">
-          <mxGeometry x="46" y="121.03321033210332" width="253" height="63.54243542435424" as="geometry" />
+          <mxGeometry x="46" y="103.3210332103321" width="253" height="54.243542435424345" as="geometry" />
         </mxCell>
         <mxCell id="2xVolAvz7KJSMMRBV8Ti-7" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.16;entryY=0;rounded=0;fontSize=16;" edge="1" parent="2xVolAvz7KJSMMRBV8Ti-3" source="2xVolAvz7KJSMMRBV8Ti-4" target="2xVolAvz7KJSMMRBV8Ti-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="337" y="57.490774907749085" />
+              <mxPoint x="337" y="49.07749077490775" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="2xVolAvz7KJSMMRBV8Ti-8" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.16;entryY=0.99;rounded=0;fontSize=16;" edge="1" parent="2xVolAvz7KJSMMRBV8Ti-3" source="2xVolAvz7KJSMMRBV8Ti-6" target="2xVolAvz7KJSMMRBV8Ti-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="337" y="152.80442804428043" />
+              <mxPoint x="337" y="130.44280442804427" />
             </Array>
           </mxGeometry>
         </mxCell>
