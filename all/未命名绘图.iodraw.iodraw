@@ -99,7 +99,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2xVolAvz7KJSMMRBV8Ti-25" value="Flume 采集层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="20" y="344" width="983" height="126" as="geometry" />
+          <mxGeometry x="19.5" y="290" width="983" height="126" as="geometry" />
         </mxCell>
         <mxCell id="2xVolAvz7KJSMMRBV8Ti-26" value="Source&#xa;Spooldir Source&#xa;监控 /root/ecommerce-data/spool/" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="2xVolAvz7KJSMMRBV8Ti-25">
           <mxGeometry x="46" y="31.5" width="252" height="74.72093023255813" as="geometry" />
