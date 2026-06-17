@@ -65,7 +65,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2xVolAvz7KJSMMRBV8Ti-17" value="MapReduce 清洗层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="195" y="640" width="625" height="204" as="geometry" />
+          <mxGeometry x="200" y="640" width="625" height="204" as="geometry" />
         </mxCell>
         <mxCell id="2xVolAvz7KJSMMRBV8Ti-18" value="YARN 资源调度" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="2xVolAvz7KJSMMRBV8Ti-17">
           <mxGeometry x="45.49050632911392" y="88.51239669421487" width="227.45253164556962" height="41.30578512396694" as="geometry" />
