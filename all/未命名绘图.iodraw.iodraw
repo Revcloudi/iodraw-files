@@ -104,10 +104,10 @@
         <mxCell id="2xVolAvz7KJSMMRBV8Ti-26" value="Source&#xa;Spooldir Source&#xa;监控 /root/ecommerce-data/spool/" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="2xVolAvz7KJSMMRBV8Ti-25">
           <mxGeometry x="46" y="43" width="252" height="102" as="geometry" />
         </mxCell>
-        <mxCell id="2xVolAvz7KJSMMRBV8Ti-27" value="Channel（橙色）&#xa;Memory Channel&#xa;缓冲通道 capacity=100000" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="2xVolAvz7KJSMMRBV8Ti-25">
+        <mxCell id="2xVolAvz7KJSMMRBV8Ti-27" value="Channel&#xa;Memory Channel&#xa;缓冲通道 capacity=100000" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="2xVolAvz7KJSMMRBV8Ti-25">
           <mxGeometry x="372" y="52" width="253" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="2xVolAvz7KJSMMRBV8Ti-28" value="Sink（红色）&#xa;HDFS Sink&#xa;下沉 /ecommerce/raw_data/..." style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="2xVolAvz7KJSMMRBV8Ti-25">
+        <mxCell id="2xVolAvz7KJSMMRBV8Ti-28" value="Sink&#xa;HDFS Sink&#xa;下沉 /ecommerce/raw_data/..." style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="2xVolAvz7KJSMMRBV8Ti-25">
           <mxGeometry x="700" y="52" width="253" height="84" as="geometry" />
         </mxCell>
         <mxCell id="2xVolAvz7KJSMMRBV8Ti-29" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=16;" edge="1" parent="2xVolAvz7KJSMMRBV8Ti-25" source="2xVolAvz7KJSMMRBV8Ti-26" target="2xVolAvz7KJSMMRBV8Ti-27">
