@@ -13,13 +13,13 @@
         <mxCell id="2xVolAvz7KJSMMRBV8Ti-3" value="数据可视化层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="180" y="1465" width="663" height="271" as="geometry" />
         </mxCell>
-        <mxCell id="2xVolAvz7KJSMMRBV8Ti-4" value="用户行为转化漏斗图（粉色）" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="2xVolAvz7KJSMMRBV8Ti-3">
+        <mxCell id="2xVolAvz7KJSMMRBV8Ti-4" value="用户行为转化漏斗图" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="2xVolAvz7KJSMMRBV8Ti-3">
           <mxGeometry x="46" y="43" width="254" height="67" as="geometry" />
         </mxCell>
         <mxCell id="2xVolAvz7KJSMMRBV8Ti-5" value="商业洞察建议&#xa;3 行内容" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="2xVolAvz7KJSMMRBV8Ti-3">
           <mxGeometry x="375" y="106" width="259" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="2xVolAvz7KJSMMRBV8Ti-6" value="Top 10 商品销量排行柱状图（粉色）" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="2xVolAvz7KJSMMRBV8Ti-3">
+        <mxCell id="2xVolAvz7KJSMMRBV8Ti-6" value="Top 10 商品销量排行柱状图" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="2xVolAvz7KJSMMRBV8Ti-3">
           <mxGeometry x="46" y="160" width="253" height="84" as="geometry" />
         </mxCell>
         <mxCell id="2xVolAvz7KJSMMRBV8Ti-7" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.16;entryY=0;rounded=0;fontSize=16;" edge="1" parent="2xVolAvz7KJSMMRBV8Ti-3" source="2xVolAvz7KJSMMRBV8Ti-4" target="2xVolAvz7KJSMMRBV8Ti-5">
@@ -87,7 +87,7 @@
         <mxCell id="2xVolAvz7KJSMMRBV8Ti-21" value="HDFS 分布式存储层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="189" y="566" width="644" height="189" as="geometry" />
         </mxCell>
-        <mxCell id="2xVolAvz7KJSMMRBV8Ti-22" value="NameNode（紫色）&#xa;元数据管理" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="2xVolAvz7KJSMMRBV8Ti-21">
+        <mxCell id="2xVolAvz7KJSMMRBV8Ti-22" value="NameNode&#xa;元数据管理" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="2xVolAvz7KJSMMRBV8Ti-21">
           <mxGeometry x="46" y="69" width="248" height="67" as="geometry" />
         </mxCell>
         <mxCell id="2xVolAvz7KJSMMRBV8Ti-23" value="DataNode 1&#xa;Block 128MB ×3 副本&#xa;DataNode 2&#xa;Block 128MB ×3 副本&#xa;DataNode N&#xa;Block 128MB ×3 副本" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="2xVolAvz7KJSMMRBV8Ti-21">
